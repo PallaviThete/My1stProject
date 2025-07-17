@@ -1,3 +1,4 @@
 # My1stProject
-This is my first git hub project
-Author:PAllavi Thete
+This is my first git hub Repository
+<br>
+Author:Pallavi Thete
